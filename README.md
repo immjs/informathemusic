@@ -1,11 +1,11 @@
-#### Hi there 👋
-##### Informathemusic here
+### Hi there 👋
+#### Informathemusic here
 (Bit long, isn't it?)
-#### Hi there 👋
-##### Info here
+### Hi there 👋
+#### Info here
 (Yea, but too short...)
-#### Hi there 👋
-##### Informa here
+### Hi there 👋
+#### Informa here
 (Accptable)
 
 I am a JS focused developer.
