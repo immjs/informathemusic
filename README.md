@@ -13,6 +13,7 @@ I have disposed my latest project in the pinned category
 ## For any requests...
 Please contact me on my socials! I'm mainly active on:
 - Email <informathemusic@gmail.com>
+
  ┗ Personnal email (Less active on this one) <romiegreenbourg@gmail.com>
 - Discord (Unicode, copy paste please!) <ІnfоrМаthеМusіc#8125>
 - Twitter (Not so active on twitter) <@informathemusic>
