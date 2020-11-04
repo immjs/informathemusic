@@ -1,41 +1,20 @@
-### Hi there 👋
-#### Informathemusic here
-(Bit long, isn't it?)
-### Hi there 👋
-#### Info here
-(Yea, but too short...)
-### Hi there 👋
-#### Informa here
-(Accptable)
-
-I am a JS focused developer.
-If I do something, I'm doing it in JS or I'm not doing it, because I'm better in JS than aything else but most importantly because that's the language i love
-
-### I'm currently working on multiple projects such as: 
-- Dbs made easier, [Informa-Db.js](https://npmjs.com/package/informa-db.js), 
-- My own website, [immweb](https://imm.now.sh/) and
-- A regex-based conversion bot, [PityBitty](https://github.com/informathemusic/PityBitty)
-
-### I'm currently learning
-#### Vue.js
-
-### I'm lookling for help with
-#### PityBitty, feel free to DM me on [Discord](#social)
-
-### Ask
-#### You can ask me about anything in JS on [Discord or Twitter](#social)
-
-# Social
-## Discord
-InforMatheMusic#6747
-## Twitter
-@informathemusic
-## Twitch
-informathemusic
-## Reddit
-u/informathemusic
-## Instagram
-@informathemusic6
-
-### Pronouns
-He, They
+What if.... What if I changed this file every once in a while?
+# 👋 Oi, internet stranger!
+You're wondering who I am? I am InforMatheMusic! But you can call me Informa🇬🇧🇺🇸 or Info🇫🇷
+# Who am I?
+I am a student located in france. I develop in JS (Because i'm too lazy to learn other languages)
+# What did I do lately?
+I have disposed my latest project in the pinned category
+# Fun facts!
+- I speak fluent English, French and Chinese. I wish to learn japanese sooner or later!
+- I'm lazy :P I don't have amazing grades either but I do try to excell at programming! I wish to become a SWE or FE/BE/FS developer.
+- It's "Pain au chocolat" my french friends!
+- I don't have an amazing PC
+## For any requests...
+Please contact me on my socials! I'm mainly active on:
+- Email <informathemusic@gmail.com>
+ ┗ Personnal email (Less active on this one) <romiegreenbourg@gmail.com>
+- Discord (Unicode, copy paste please!) <ІnfоrМаthеМusіc#8125>
+- Twitter (Not so active on twitter) <@informathemusic>
+- Instagr -hold up... Is this account private for any reason?
+- Youtube <@informathemusic>
