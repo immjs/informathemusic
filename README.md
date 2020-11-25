@@ -1,10 +1,10 @@
 What if.... What if I changed this file every once in a while?
 # 👋 Oi, internet stranger!
-You're wondering who I am? I am InforMatheMusic! But you can call me Informa🇬🇧🇺🇸 or Info🇫🇷
+You're wondering who I am? I am InforMatheMusic! But you can call me Informa or Info
 # Who am I?
 I am a student located in france. I develop in JS (Because i'm too lazy to learn other languages)
 # What did I do lately?
-I have disposed my latest project in the pinned category
+I have disposed my latest projects in the pinned category
 # Fun facts!
 - I speak fluent English, French and Chinese. I wish to learn japanese sooner or later!
 - I'm lazy :P I don't have amazing grades either but I do try to excell at programming! I wish to become a SWE or FE/BE/FS developer.
